@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+/chapter2/.vs/chapter2/v15
+/chapter2/chapter2/Debug
+*.vcxproj
+*.filters
+*.user
+/chapter2/Debug
+*.sln
+/chapter2/enc_temp_folder
+/chapter2/.vs/cpp-course/v15/ipch/AutoPCH/c10f490bb2dc9240
+/chapter2/.vs/cpp-course/v15
+/cpp-course/Debug
+/cpp-course/chapter2/Debug
+/cpp-course/.vs/cpp-course/v15
