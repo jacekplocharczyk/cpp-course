@@ -37,3 +37,4 @@
 *.user
 /chapter2/Debug
 *.sln
+/chapter2/enc_temp_folder

@@ -3,7 +3,10 @@
 
 int main() 
 {
-	drill();
+	//drill();
+	//exercise1();
+
+
 	return 0;
 }
 
