@@ -15,6 +15,14 @@ int main() {
 	//drill5();
 	//drill6();
 	//drill7();
+	//exercise1();
+	//exercise2();
+	//exercise3();
+	//exercise4();
+	//exercise5();
+	//exercise6();
+	//exercise7();
+	//exercise8();
 
 
 
