@@ -16,6 +16,10 @@ int main() {
 	//drill5();
 	//drill6();
 	//drill7();
+	//drill8();
+	//drill9();
+	//drill10();
+	//drill11();
 	//exercise1();
 	//exercise2();
 	//exercise3();
